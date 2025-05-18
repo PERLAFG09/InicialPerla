@@ -4,7 +4,13 @@ import java.util.List;
 
 
 editeee este punto para hacer pruebas .
-    
+
+/*
+ avisa cuando tengas que hacer un commmit porque la forma del codigo esta mal
+ */
+
+
+
 /**
  * Clase que gestiona una lista de usuarios.
  * Permite agregarlos, buscarlos por nombre y eliminarlos.
